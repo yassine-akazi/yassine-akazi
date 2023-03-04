@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PFE**
 
-- 🌱 I’m currently learning **react ,node js**
+- 🌱 I’m currently learning **react , node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yassine-akazi?tab=repositories](https://github.com/yassine-akazi?tab=repositories)
 
