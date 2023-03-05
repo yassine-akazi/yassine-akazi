@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yassine akazi</h1>
-<h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
+<h2 align="center">A passionate developer from Morocco 🇲🇦</h2>
 
 - 🔭 I’m currently working on **PFE**
 
