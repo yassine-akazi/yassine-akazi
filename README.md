@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yassine-akazi?tab=repositories](https://github.com/yassine-akazi?tab=repositories)
 
-- 💬 Ask me about **anything you want**
+- 💬 Ask me about **React , NodeJs**
 
 - 📫 How to reach me **akaziyassine1@gmail.com**
 
