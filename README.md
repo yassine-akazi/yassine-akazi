@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm yassine akazi</h1>
 <h2 align="center">A passionate developer from Morocco 🇲🇦</h2>    
 
-- 🔭 I’m currently working on **PFE**
 
-- 🌱 I’m currently learning **react ,node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yassine-akazi?tab=repositories](https://github.com/yassine-akazi?tab=repositories)
 
-- 💬 Ask me about **React , NodeJs**
+- 💬 Ask me about **React , Laravel**
 
-- 📫 How to reach me **akaziyassine1@gmail.com**
+- 📫 How to reach me **akazi.yassine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
