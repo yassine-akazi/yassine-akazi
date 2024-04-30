@@ -38,12 +38,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,mongodb,mysql" />
 </div>
 
-<br/>
-<hr/>
 
->
-
-<hr/>
 
 
 
