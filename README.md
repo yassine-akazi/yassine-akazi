@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React**
 
-💬 Ask me about **Laravel, MySql... or anything [here]([https://github.com/salesp07/salesp07/issues](https://www.linkedin.com/messaging/thread/2-NzZmYjNmMGQtMzMxYy00MjExLTg1YmUtNDc3NzgxNjdmMzJjXzAxMg==/))**
+💬 Ask me about **Laravel, MySql... or anything [here]((https://www.linkedin.com/messaging/thread/2-NzZmYjNmMGQtMzMxYy00MjExLTg1YmUtNDc3NzgxNjdmMzJjXzAxMg==/))**
 
 
  </div>
